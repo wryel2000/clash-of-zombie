@@ -5,17 +5,17 @@ Jogo inspirado em Clash Royale desenvolvido com Phaser para rodar em ambiente es
 ## Como jogar
 
 1. Abra o arquivo `index.html` em um navegador moderno ou sirva o diretório com qualquer servidor HTTP estático.
-2. Na tela inicial, clique em **Preparar Deck** para montar um baralho com 8 cartas dentre 20 unidades e 10 feitiços. É possível upar cartas gastando ouro apenas fora da batalha.
-3. Retorne ao menu e escolha **Iniciar Batalha** para enfrentar o rei robô. Selecione uma carta na barra inferior (ícones em emoji) e depois toque no campo para posicionar a unidade ou lançar o feitiço.
-4. Gerencie o elixir (que dobra após 1 minuto), aproveite o modo arena aberta em orientação vertical e destrua o rei inimigo antes que o robô derrube suas torres.
+2. Clique em uma carta para selecioná-la e depois clique no campo na linha desejada para lançar a unidade.
+3. Use o ouro ganho eliminando inimigos para upar as cartas e fortalecer seus zumbis.
+4. Gerencie o elixir (que dobra após 1 minuto) e destrua o rei inimigo antes que o robô acabe com suas torres.
 
 ## Recursos principais
 
-- Arena vertical com mapa livre (sem pistas) e três torres por lado, com tiros visíveis em emoji.
+- Campo dividido em duas pistas com três torres para cada lado, replicando o fluxo de Clash Royale.
 - Sistema de elixir com limite 10 e modo 2x a partir de 60 segundos.
-- Biblioteca com 30 cartas (20 unidades e 10 feitiços lançáveis) inspiradas em franquias como *The Walking Dead*, *Resident Evil*, *Left 4 Dead* e outras séries de zumbis.
-- Deck builder dedicado para selecionar cartas e fazer upgrades usando ouro fora da batalha.
-- Partidas single-player contra IA com projéteis visíveis, efeitos de feitiço em área e fim baseado nas regras clássicas: 3 minutos mais morte súbita em caso de empate.
+- Partidas single-player contra um robô com baralho inspirado em franquias de zumbis famosas como *The Walking Dead*, *Resident Evil* e *Left 4 Dead*.
+- Cartas evoluíveis diretamente na interface, aumentando vida e dano das unidades.
+- Fim de partida baseado nas regras tradicionais: contagem de coroas em 3 minutos e morte súbita em caso de empate.
 
 ## Desenvolvimento
 
